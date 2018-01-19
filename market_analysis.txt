@@ -1,0 +1,15 @@
+news:
+https://kryptocal.com
+https://www.coinmarketcal.com
+https://steemit.com
+https://coindar.org/en
+
+trading_:
+https://www.coinmarketcap.com
+https://coinmarketcap.com/gainers-losers/
+https://www.tradingview.com
+https://www.cryptocompare.com
+https://cryptoping.tech/backend/notifications/current
+
+historical:
+https://coinmarketcap.com/historical/20171210/

@@ -1,0 +1,7 @@
+binance
+gdax
+coinbase
+kucoin
+upcoin
+bittrex
+bitstamp
