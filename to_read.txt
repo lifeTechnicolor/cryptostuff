@@ -1,6 +1,7 @@
 training:
 http://stockcharts.com/school/doku.php?id=chart_school
 http://lopp.net/bitcoin.html
+https://www.youtube.com/watch?v=paBRkiDR-1I&feature=youtu.be
 
 util:
 http://forum.autohoje.com/off-topic/117650-bitcoin-e-altcoins-109.html
