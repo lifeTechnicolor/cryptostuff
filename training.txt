@@ -11,3 +11,10 @@ https://www.babypips.com/learn/forex/divergence-cheat-sheet
 https://www.babypips.com/learn/forex/identifying-reversals
 
 For instance, Fibs and trend lines are useful in trending markets while pivot points, support and resistance levels are helpful when the market is ranging.
+
+-----------------------------------------
+trandinview : https://www.tradingview.com/chart/TweLg48l/
+SMMA 10 
+SMMA 20
+ATR 14
+
