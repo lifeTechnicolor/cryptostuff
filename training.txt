@@ -17,4 +17,4 @@ trandinview : https://www.tradingview.com/chart/TweLg48l/
 SMMA 10 
 SMMA 20
 ATR 14
-
+MACD
